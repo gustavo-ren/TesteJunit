@@ -1,2 +1,2 @@
 # TesteJunit
-Exercicio bobo de JUnit
+Testes com JUnit
